@@ -7,12 +7,12 @@
   "enabled": true,
   "ip_policies": [
     {
-      "id": "ipp_30si96X7AsQlLdn4LG2628cSWVJ",
-      "uri": "https://api.ngrok.com/ip_policies/ipp_30si96X7AsQlLdn4LG2628cSWVJ"
+      "id": "ipp_30uQMgUsXnvKUOVoJPYprPTe5sg",
+      "uri": "https://api.ngrok.com/ip_policies/ipp_30uQMgUsXnvKUOVoJPYprPTe5sg"
     },
     {
-      "id": "ipp_30si98NIJph8Zy29nzKtYkXjNRW",
-      "uri": "https://api.ngrok.com/ip_policies/ipp_30si98NIJph8Zy29nzKtYkXjNRW"
+      "id": "ipp_30uQMiRC2m5IK9KIGJRSxir4JTe",
+      "uri": "https://api.ngrok.com/ip_policies/ipp_30uQMiRC2m5IK9KIGJRSxir4JTe"
     }
   ]
 }

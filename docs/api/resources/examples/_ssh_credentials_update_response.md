@@ -8,12 +8,12 @@
     "bind:1.tcp.ngrok.io:20002",
     "bind:132.devices.company.com"
   ],
-  "created_at": "2025-08-05T19:35:22Z",
+  "created_at": "2025-08-06T10:08:47Z",
   "description": "my dev machine",
-  "id": "sshcr_30si8duwUwyEMXJ1f7YbeuUMcBk",
+  "id": "sshcr_30uQMDXMA37k1JULvDqkBW9UUl3",
   "metadata": "{\"hostname\": \"macbook.local\"}",
-  "owner_id": "usr_30si1oLXr0BD6OOtoosIWpPXwBf",
+  "owner_id": "usr_30uQFRwErfGMlHc8w2J0fc1FRHK",
   "public_key": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDmGS49FkSODAcKhn3+/47DW2zEn19BZvzRQ8RZjL3v6hCIX2qXfsFK35EGxNI0wV23H4xXC2gVRPHKU71YnCb50tad3yMBTM6+2yfGsEDasEH/anmBLclChKvuGiT547RskZlpbAbdq3GvbzmY+R/2EBRMOiObpc8XmSzKAd05j28kqN0+rZO65SWId0MXdvJdSCSAnuRqBNd/aXKlu8hBPDcgwbT2lMkuR+ApoBS2FLRBOiQyt2Ol0T7Uuf7lTLlazpGB3uTw5zFYUNXkuuI6cAP8QYuY1Bne/hNrG8t3Aw9a1yc2C4Fz1hJ/4OMRxTQ8SUQf+Rmxs8DryMlMFJ8r device132@example.com",
-  "uri": "https://api.ngrok.com/ssh_credentials/sshcr_30si8duwUwyEMXJ1f7YbeuUMcBk"
+  "uri": "https://api.ngrok.com/ssh_credentials/sshcr_30uQMDXMA37k1JULvDqkBW9UUl3"
 }
 ```
